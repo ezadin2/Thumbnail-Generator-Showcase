@@ -1,1 +1,3 @@
-# Thumbnail-Generator-Showcase
+# Thumbnail-Generator
+
+![Hero Image](hero_img.png)
